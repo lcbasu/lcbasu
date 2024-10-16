@@ -22,8 +22,3 @@ Here are some ideas to get you started:
   <li>I'm Lokesh, a Software Engineer with 10 years of experience in various domains like AdTech, Steaming, Virtual Reality, e-commerce, Gaming, UPI Payments, Backend, and Data Engineering.</li>
   <li><a href="https://twitter.com/lcbasu">I do not tweet myself but retweet other's tweets on X.com</a></li>
 </ul>
-
-&nbsp;![](https://komarev.com/ghpvc/?username=lcbasu&color=brightgreen)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lcbasu&show_icons=true&locale=en" alt="lcbasu" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lcbasu&layout=compact&hide_border=true&&langs_count=10&show_icons=true&theme=transparent" />
-</p>
